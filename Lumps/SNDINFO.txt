@@ -1,0 +1,15 @@
+// REALM667 RESOURCES
+//Minigun
+weapons/minigunfire DSMINIGN
+
+//GrenadeLauncher
+Weapons/GrenLF	DSGLAUNC
+Weapons/GrenLX	DSGRNEXP
+Weapons/GrBnce	DSBOUNCE
+
+Weapons/BFG10KF		DSBFG10K
+Weapons/BFG10KX		DSBAREXP
+Weapons/BFG10KCool	DS10KCDN
+Weapons/BFG10KIdle	DS10KIDL
+
+$Limit	Weapons/BFG10KX	0

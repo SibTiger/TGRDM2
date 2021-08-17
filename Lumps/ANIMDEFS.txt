@@ -1,0 +1,5 @@
+texture optional ARTITU1
+pic ARTITU1 tics 3
+pic ARTITU2 tics 3
+pic ARTITU3 tics 3
+pic ARTITU4 tics 3

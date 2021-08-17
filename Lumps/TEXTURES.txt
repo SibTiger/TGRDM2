@@ -1,0 +1,23 @@
+Graphic "ARTITU1", 32, 32
+{
+Offset 8, 14
+Patch "TURBA0", 0, 0
+}
+
+Graphic "ARTITU2", 32, 32
+{
+Offset 8, 14
+Patch "TURBB0", 0, 0
+}
+
+Graphic "ARTITU3", 32, 32
+{
+Offset 8, 14
+Patch "TURBC0", 0, 0
+}
+
+Graphic "ARTITU4", 32, 32
+{
+Offset 8, 14
+Patch "TURBD0", 0, 0
+}
